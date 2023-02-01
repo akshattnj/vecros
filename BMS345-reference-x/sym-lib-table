@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BMS345")(type "Legacy")(uri "${KIPRJMOD}/BMS345.lib")(options "")(descr ""))
+  (lib (name "BMS345-rescue")(type "Legacy")(uri "${KIPRJMOD}/BMS345-rescue.lib")(options "")(descr ""))
+)
